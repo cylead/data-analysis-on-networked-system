@@ -10,7 +10,7 @@ In this project, we try to solve a supervised learning problem related to video-
 
 ## Some results
 
-The prediction of the linear regression with the different number of input features.:
+The prediction NMAE of the linear regression with the different number of input features.:
 <p align="center">
 <img src="./figs/screenshot2.png" width="90%" >
 </p>
